@@ -1,14 +1,10 @@
 # Policia194-DescontaminApp
+DESCONTAMINAPP
 Esta es la descripción de la Aplicación DescontaminApp
+Descontaminapp es una plaicación que permite verificar en tiempo real e numero de particulas por millon en el ambiente natural gracias a la recopilación de datos mediante un dispositivo Hardware
+RETO A TRABAJAR
 
-nombre de la palicacion
+INTEGRANTES
 
-descripcion
+IMAGEN
 
-reto a traajar
-
-integrantes 
-
-imagen
-
-reto
