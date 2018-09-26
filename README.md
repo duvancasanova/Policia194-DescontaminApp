@@ -5,6 +5,8 @@ Descontaminapp es una plaicación que permite verificar en tiempo real e numero 
 RETO A TRABAJAR
 
 INTEGRANTES
+st casanova
+te garzon
 
 IMAGEN
 
